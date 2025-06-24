@@ -25,7 +25,7 @@ This article is intended for Microsoft 365 administrators who are responsible fo
 ## Capabilities
 - Ask natural language questions about Wiki content in Copilot, such as summarizing the architecture document and how to get access to a portal, with enhanced search capabilities.
 - Perform natural language queries for accurate responses using Semantic Search support.
-- Support Confluence versions above 8.0 for compatibility.
+- Support Confluence versions above 7.0.1 for compatibility.
 
 ## Limitations
 - Doesn't index blogs, attachment files, or comments.
@@ -80,7 +80,7 @@ Verify that the Copilot connectors Confluence On-prem Plugin is installed. You d
 [![Screnshot that shows Plugin sussuesfully installed)](https://github.com/user-attachments/assets/58ba9e9e-e2c9-47e9-967d-401cd79a7c5d)](https://github.com/user-attachments/assets/58ba9e9e-e2c9-47e9-967d-401cd79a7c5d#lightbox)
 
 >[!NOTE]
->Plugin is supported for Confluence version above 8.0.
+>Plugin is supported for Confluence version above 7.0.1.
 
 ### 5. Authentication type
 
